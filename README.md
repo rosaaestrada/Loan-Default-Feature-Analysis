@@ -14,11 +14,11 @@
 ### Project Overview and Objectives
 
 #### 1️⃣ First Research Question and Hypotheses
-🔸 **Research Question:** *What borrower details, financial attributes, and potential interactions predict loan default for loans issued between 2012 and 2019 using Advanced Machine Learning techniques?*
+🔸 **Research Question:** What borrower details, financial attributes, and potential interactions predict loan default for loans issued between 2012 and 2019 using Advanced Machine Learning techniques?
 
-🔸 **Alternative Hypothesis (H1):** *Suggests that there is a significant between at least one of the borrower details, financial attributes, or potential interactions and loan defaults for loans between 2012 and 2019 using Advanced Machine Learning techniques.*
+🔸 **Alternative Hypothesis (H1):** Suggests that there is a significant between at least one of the borrower details, financial attributes, or potential interactions and loan defaults for loans between 2012 and 2019 using Advanced Machine Learning techniques.
 
-🔸 **Null Hypothesis (H0):** *Suggests no significant relationship between borrower details, financial attributes, or potential interactions and loan defaults for loans issued between 2012 and 2019 using Advanced Machine Learning techniques.*
+🔸 **Null Hypothesis (H0):** Suggests no significant relationship between borrower details, financial attributes, or potential interactions and loan defaults for loans issued between 2012 and 2019 using Advanced Machine Learning techniques.
 
 #### 2️⃣ Second Research Question and Hypotheses
 🔸 **Research Question:** Could the occurence of natural disasters, as witness in the United States from 2012 to 2019, be used as a predictor for loans defaults?
@@ -34,5 +34,5 @@ This project employs a structured methodology consisting of several key stages: 
 
 ------------------------------------------------------------------------------------------------------------------------
 **Kaggle Notebooks:**
-- [Kaggle.com: rosaaestrada - Natural Disasters as Predictor for Loan Default](https://www.kaggle.com/code/rosaaestrada/predicting-factors-influencing-loan-default-in-u-s)
+- [Kaggle.com: rosaaestrada - Predicting Factors Influencing Loan Default in U.S](https://www.kaggle.com/code/rosaaestrada/predicting-factors-influencing-loan-default-in-u-s)
 - [Kaggle.com: rosaaestrada - Natural Disasters as Predictor for Loan Default](https://www.kaggle.com/code/rosaaestrada/natural-disasters-as-predictor-for-loan-default)
