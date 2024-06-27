@@ -13,14 +13,14 @@
 
 ### Project Overview and Objectives
 
-#### First Research Question and Hypotheses
+#### 1️⃣ First Research Question and Hypotheses
 🔹 **Research Question:** *What borrower details, financial attributes, and potential interactions predict loan default for loans issued between 2012 and 2019 using Advanced Machine Learning techniques?*
 
 🔹 **Alternative Hypothesis (H1):** *Suggests that there is a significant between at least one of the borrower details, financial attributes, or potential interactions and loan defaults for loans between 2012 and 2019 using Advanced Machine Learning techniques.*
 
 🔹 **Null Hypothesis (H0):** *Suggests no significant relationship between borrower details, financial attributes, or potential interactions and loan defaults for loans issued between 2012 and 2019 using Advanced Machine Learning techniques.*
 
-#### Second Research Question and Hypotheses
+#### 2️⃣ Second Research Question and Hypotheses
 🔹 **Research Question:** Could the occurence of natural disasters, as witness in the United States from 2012 to 2019, be used as a predictor for loans defaults?
 
 🔹 **Alternative Hypothesis (H1):** Suggests that the occurence of natural disasters in the United States from 2012-2019 is a significant predictor for loan default.
