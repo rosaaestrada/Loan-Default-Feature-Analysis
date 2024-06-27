@@ -1,6 +1,6 @@
 # Predicting Factors Influencing Loan Default in the U.S.
 
-*This project was done as my thesis for my Masters degree at National University*
+*This project was completed as my thesis for my Masters degree at National University*
 
 ### Data
 **Lending Club Loan Data:** Located on [Kaggle.com - Lending Club Loan Data](https://www.kaggle.com/datasets/adarshsng/lending-club-loan-data-csv)
