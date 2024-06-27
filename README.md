@@ -1,9 +1,8 @@
-# Loan Default
-## Predicting What Features Influence Loan Default
+# Predicting Factors Influencing Loan Default in the U.S.
 
 ### Data
 **Lending Club Loan Data**
-- Sourced from: https://www.kaggle.com/datasets/adarshsng/lending-club-loan-data-csv
+- Sourced from: [Kaggle.com - Lending Club Loan Data](https://www.kaggle.com/datasets/adarshsng/lending-club-loan-data-csv)
 - Loan data for all loans issued through 2007-2015
 - About dataset: Lending Club is a peer-to-peer Lending company based in the US. They match people looking to invest money with people looking to borrow money. When investors invest their money through Lending Club, this money is passed onto borrowers, and when borrowers pay their loans back, the capital plus the interest passes on back to the investors.
 
