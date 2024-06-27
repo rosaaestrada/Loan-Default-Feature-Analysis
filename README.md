@@ -19,5 +19,8 @@
 
 This project employs a structured methodology consisting of several key stages: data cleaning, Exploratory Data Analysis (EDA), feature engineering, and feature selection. Following those steps, predictive modeling is conducted utilizing Logistic Regression, Random Forest, and Decision Tree algorithms. Finally, the project culminates with a comprehensive feature importance analysis, using techniques such as Confusion Matrix and ROC Curve evaluation.
 
+------------------------------------------------------------------------------------------------------------------------
+
 **Second Research Question to this Project:** Analyzing if natural disasters can be used as a predictor for Loan Default. Located on Kaggle "Natural Disasters as Predictor for Loan Default"
+
 [Kaggle.com: rosaaestrada - Natural Disasters as Predictor for Loan Default](https://www.kaggle.com/code/rosaaestrada/natural-disasters-as-predictor-for-loan-default)
