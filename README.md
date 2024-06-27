@@ -5,6 +5,8 @@
 - Loan data for all loans issued through 2007-2015
 - **About dataset:** Lending Club is a peer-to-peer Lending company based in the US. They match people looking to invest money with people looking to borrow money. When investors invest their money through Lending Club, this money is passed onto borrowers, and when borrowers pay their loans back, the capital plus the interest passes on back to the investors.
 
+**US Natural Disasters Declarations:** Located on [Kaggle.com - US Natural Disasters Declarations](https://www.kaggle.com/datasets/headsortails/us-natural-disaster-declarations)
+
 ------------------------------------------------------------------------------------------------------------------------
 
 ### Project Overview and Objectives
@@ -15,12 +17,21 @@
 **Null Hypothesis (H0):** Suggests no significant relationship between borrower details, financial attributes, or potential interactions and loan defaults for loans issued between 2012 and 2019 using Advanced Machine Learning techniques.
 
 ------------------------------------------------------------------------------------------------------------------------
+
+**Second Research Question to this Project:** Analyzing if natural disasters can be used as a predictor for Loan Default. Located on Kaggle "Natural Disasters as Predictor for Loan Default"
+
+**Research Question:** Could the occurence of natural disasters, as witness in the United States from 2012 to 2019, be used as a predictor for loans defaults?
+
+**Alternative Hypothesis (H1):** Suggests that the occurence of natural disasters in the United States from 2012-2019 is a significant predictor for loan default.
+
+**Null Hypothesis (H0):** Suggests that the occurence ofnatural disasters in the United States from 2012 to 2019 has no predictive power for loan defualts.
+
+------------------------------------------------------------------------------------------------------------------------
 **Methodology**
 
 This project employs a structured methodology consisting of several key stages: data cleaning, Exploratory Data Analysis (EDA), feature engineering, and feature selection. Following those steps, predictive modeling is conducted utilizing Logistic Regression, Random Forest, and Decision Tree algorithms. Finally, the project culminates with a comprehensive feature importance analysis, using techniques such as Confusion Matrix and ROC Curve evaluation.
 
 ------------------------------------------------------------------------------------------------------------------------
-
-**Second Research Question to this Project:** Analyzing if natural disasters can be used as a predictor for Loan Default. Located on Kaggle "Natural Disasters as Predictor for Loan Default"
-
-[Kaggle.com: rosaaestrada - Natural Disasters as Predictor for Loan Default](https://www.kaggle.com/code/rosaaestrada/natural-disasters-as-predictor-for-loan-default)
+**Kaggle Notebooks:**
+- [Kaggle.com: rosaaestrada - Natural Disasters as Predictor for Loan Default](https://www.kaggle.com/code/rosaaestrada/predicting-factors-influencing-loan-default-in-u-s)
+- [Kaggle.com: rosaaestrada - Natural Disasters as Predictor for Loan Default](https://www.kaggle.com/code/rosaaestrada/natural-disasters-as-predictor-for-loan-default)
