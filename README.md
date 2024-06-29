@@ -16,18 +16,30 @@
 ### Project Overview and Objectives
 
 #### 1️⃣ First Research Question and Hypotheses
-🔸 **Research Question:** What borrower details, financial attributes, and potential interactions predict loan default for loans issued between 2012 and 2019 using Advanced Machine Learning techniques?
+🔸 **Research Question:** 
 
-🔸 **Alternative Hypothesis (H1):** Suggests that there is a significant between at least one of the borrower details, financial attributes, or potential interactions and loan defaults for loans between 2012 and 2019 using Advanced Machine Learning techniques.
+What borrower details, financial attributes, and potential interactions predict loan default for loans issued between 2012 and 2019 using Advanced Machine Learning techniques?
 
-🔸 **Null Hypothesis (H0):** Suggests no significant relationship between borrower details, financial attributes, or potential interactions and loan defaults for loans issued between 2012 and 2019 using Advanced Machine Learning techniques.
+🔸 **Alternative Hypothesis (H1):** 
+
+Suggests that there is a significant between at least one of the borrower details, financial attributes, or potential interactions and loan defaults for loans between 2012 and 2019 using Advanced Machine Learning techniques.
+
+🔸 **Null Hypothesis (H0):** 
+
+Suggests no significant relationship between borrower details, financial attributes, or potential interactions and loan defaults for loans issued between 2012 and 2019 using Advanced Machine Learning techniques.
 
 #### 2️⃣ Second Research Question and Hypotheses
-🔸 **Research Question:** Could the occurence of natural disasters, as witness in the United States from 2012 to 2019, be used as a predictor for loans defaults?
+🔸 **Research Question:** 
 
-🔸 **Alternative Hypothesis (H1):** Suggests that the occurence of natural disasters in the United States from 2012-2019 is a significant predictor for loan default.
+Could the occurence of natural disasters, as witness in the United States from 2012 to 2019, be used as a predictor for loans defaults?
 
-🔸 **Null Hypothesis (H0):** Suggests that the occurence ofnatural disasters in the United States from 2012 to 2019 has no predictive power for loan defualts.
+🔸 **Alternative Hypothesis (H1):** 
+
+Suggests that the occurence of natural disasters in the United States from 2012-2019 is a significant predictor for loan default.
+
+🔸 **Null Hypothesis (H0):** 
+
+Suggests that the occurence ofnatural disasters in the United States from 2012 to 2019 has no predictive power for loan defualts.
 
 ------------------------------------------------------------------------------------------------------------------------
 **Methodology**
@@ -66,7 +78,7 @@ This project employs a structured methodology consisting of several key stages: 
 *This supports the research question by identifying that 'last_pymnt_amnt,' a financial attribute, is highly influential in predicting loan default.*
 
 ------------------------------------------------------------------------------------------------------------------------
-1️⃣ **Research Question:** 
+**1️⃣Research Question:** 
 
 Financial attributes such as the last payment amount ('last_pymnt_amnt') and the total received principal ('total_rec_prncp') are significant predictors of loan defaults, with higher values of these attributes associated with a lower likelihood of default, as determined by Advanced Machine Learning techniques applied to loans issued between 2012 and 2019.
 
@@ -95,7 +107,7 @@ The Random Forest model where we excluded the variable 'int_rate' from the analy
 
 *The feature importance score suggests that 'last_pymnt_amnt' and 'total_rec_prncp,' are the most important features for predicting loan defaults, with the natural disaster variables far behind.*
 
-2️⃣ **Second Research Question:**
+**2️⃣Second Research Question:**
 
 The occurence of natural disasters in the United States from 2012 to 2019 cannot be used as a predictor for loan defaults, as there is no correlation between natural disasters and loan status in the dataset.
 
