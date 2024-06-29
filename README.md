@@ -50,6 +50,7 @@ This project employs a structured methodology consisting of several key stages: 
 *This supports the research question by providing insights into the relationship between financial attributes and loan defaults.*
 
 **Feature Importance Score for Random Forest and Decision tree Models**
+
 *Random Forest*
 - 'last_pymnt_amnt' (0.54) is the most important feature
 - 'total_rec_prncp' (0.38) is the next most important feature
