@@ -53,7 +53,9 @@ This project employs a structured methodology consisting of several key stages: 
 
 ------------------------------------------------------------------------------------------------------------------------
 
-### Final Evaluation 1️⃣ Research Question
+### Final Evaluation
+
+**1️⃣ Research Question:** 
 
 **Coefficients in the Logistic Regression**
 - 'int_rate' has a positive coefficient of 0.78 (indicating that as the interest rate increases, the likelihood of loan default also increases)
