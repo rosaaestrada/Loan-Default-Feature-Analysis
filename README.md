@@ -24,69 +24,16 @@ In this project I predicted which factors influence loan default using Logistic 
 This project employs a structured methodology consisting of several key stages: data cleaning, Exploratory Data Analysis (EDA), feature engineering, and feature selection. Following those steps, predictive modeling is conducted utilizing Logistic Regression, Random Forest, and Decision Tree algorithms. Finally, the project culminates with a comprehensive feature importance analysis, using techniques such as Confusion Matrix and ROC Curve evaluation.
 
 
+## Built with:
+- Python=
+- Pandas= 
 
-### Final Evaluation 1️⃣ Research Question
 
-**Coefficients in the Logistic Regression**
-- 'int_rate' has a positive coefficient of 0.78 (indicating that as the interest rate increases, the likelihood of loan default also increases)
-- 'total_rec_prncp' (-1.49) and 'last_pymnt_amnt' (-7.63) have negative coefficients (indicating that higher values of these variables are associated with a lower likelihood of default)
+## Files: 
+- **Data** - Contains raw data, preprocessed data, and the location where the data was collected
+- **Jupyter Notebook** - The full source code along with explanations as a .ipynb file
+- **Python Code** - The full source code along with explanations as a .py file
+- **Results** - Summary Statistics, Visualizations, and Final Evaluatin of the project
 
-*This supports the research question by providing insights into the relationship between financial attributes and loan defaults.*
 
-**Feature Importance Score for Random Forest and Decision tree Models**
 
-*Random Forest*
-- 'last_pymnt_amnt' (0.54) is the most important feature
-- 'total_rec_prncp' (0.38) is the next most important feature
-- 'int_rate' (0.08) is the least important feature
-
-*Decision Tree*
-- 'last_pymnt_amnt' (0.67) is the most important feature
-- 'total_rec_prncp' (0.30) is the next most important feature
-- 'int_rate' (0.03) is the least important feature
-
-*Overall, these scores suggest that 'last_pymnt_amnt' is the most important feature for predicting loan defaults, followed by 'total_rec_prncp,' and 'int_rate'*
-
-*This supports the research question by identifying that 'last_pymnt_amnt,' a financial attribute, is highly influential in predicting loan default.*
-
-------------------------------------------------------------------------------------------------------------------------
-**1️⃣Research Question:** 
-
-Financial attributes such as the last payment amount ('last_pymnt_amnt') and the total received principal ('total_rec_prncp') are significant predictors of loan defaults, with higher values of these attributes associated with a lower likelihood of default, as determined by Advanced Machine Learning techniques applied to loans issued between 2012 and 2019.
-
-🔸 **Alternative Hypothesis (H1):**
-
-We accept the Alternative Hypothesis (H1) as there is evidence suggesting a significant relationship between at least one of the borrower details, financial attributes, or potential interactions and loan defaults for loans issued between 2012 and 2019 using Advanced Machine Learning techniques.
-
-🔸 **Null Hypothesis (H0):**
-
-We reject the Null Hypothesis (H0) as evidence supports the existence of a significant relationship between the identified features and loan defaults.
-
-🔸 **Best Performing Model:**
-
-The Random Forest model where we excluded the variable 'int_rate' from the analysis, appears to be the best for predicting loan defaults, as it achieves the highest overall performance in metrics in precision, recall, F1-score, and accuracy.
-
-------------------------------------------------------------------------------------------------------------------------
-
-### Final Evaluation 2️⃣ Research Question
-
-**Feature Importance score for the Random Forest Model**
-- 'last_pymnt_amnt' contains a score of 0.54
-- 'total_rec_prncp' contains a score of 0.45
-- 'year' contains a score of 0.009
-- 'incident_type' contains a score between 0.0001 to 0.0009
-- 'state' contains a score between 0.0001 to 0.0004
-
-*The feature importance score suggests that 'last_pymnt_amnt' and 'total_rec_prncp,' are the most important features for predicting loan defaults, with the natural disaster variables far behind.*
-
-**2️⃣Second Research Question:**
-
-The occurence of natural disasters in the United States from 2012 to 2019 cannot be used as a predictor for loan defaults, as there is no correlation between natural disasters and loan status in the dataset.
-
-🔸 **Alternative Hypothesis (H1):**
-
-This results in rejecting the Alternative Hypothesis (H1) as the evidence suggests that the occurrence of natural disasters in the United States from 2012 to 2019 is not significant.
-
-🔸 **Null Hypothesis (H0):**
-
-We accept the Null Hypothesis (H0), as the evidence supports the conclusion that natural disasters in the specified period have no predictive power for loan defaults.
