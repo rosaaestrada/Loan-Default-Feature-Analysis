@@ -15,7 +15,7 @@
 🔸 **Best Performing Model:** 
 - The Random Forest model where we excluded the variable 'int_rate' from the analysis, appears to be the best for predicting loan defaults, as it achieves the highest overall performance in metrics in precision, recall, F1-score, and accuracy.
 
-### 2️⃣ Research Question
+## 2️⃣ Research Question
 
 **Feature Importance Score for the Random Forest Model**
 - The feature importance score suggests that 'last_pymnt_amnt' (0.54) and 'total_rec_prncp' (0.45), are the most important features for predicting loan defaults, with the natural disaster variables far behind.
