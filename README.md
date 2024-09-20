@@ -25,8 +25,13 @@ This project employs a structured methodology consisting of several key stages: 
 
 
 ## Built with:
-- Python=
-- Pandas= 
+- Python= 3.9.13 (Check thesis- could be .12)
+- Pandas= 1.4.4
+- NumPy= 1.21.5
+- Seaborn: 0.11.2
+- Matplotlib= 3.5.2
+- Imbalanced-learn= 0.12.0
+- Scikit-learn= 1.0.2
 
 
 ## Files: 
