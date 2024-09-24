@@ -3,7 +3,7 @@
 - [Kaggle.com: rosaaestrada - Predicting Factors Influencing Loan Default in U.S](https://www.kaggle.com/code/rosaaestrada/predicting-factors-influencing-loan-default-in-u-s)
 - [Kaggle.com: rosaaestrada - Natural Disasters as Predictor for Loan Default](https://www.kaggle.com/code/rosaaestrada/natural-disasters-as-predictor-for-loan-default)
 
-<img src="https://github.com/rosaaestrada/Loan-Default-Prediction/blob/main/Results/Images/ROC%20curve.png?raw=true" alt= "ROC Curve" width= "" height="">
+&nbsp; <img src="https://github.com/rosaaestrada/Loan-Default-Prediction/blob/main/Results/Images/ROC%20curve.png?raw=true" alt= "ROC Curve" width= "500" height="500"> &nbsp;
 
 ## Purpose
 *This project was completed as my thesis for my Masters degree at National University*
