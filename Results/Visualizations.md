@@ -3,8 +3,7 @@
 ## ROC Curve
 <img src="https://github.com/rosaaestrada/Loan-Default-Prediction/blob/main/Results/Images/ROC%20curve.png?raw=true" alt="" width="500" height="500">
 
-- Shows overall model performance and compares logistic Regression, Random Forest, and Decision Tree
-- It captures the predictive power of your models and is oftern the go-to metric for classification tasks
+- The ROC Curve shows that Random Forest (AUC = 0.97) and Decision Tree (AUC = 0.96) models perform significantly better at distibguishing between loan default outcomes compared to Logistic Regression (AUC = 0.87), with all models outperforming the base rate.
 
 
 
