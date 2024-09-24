@@ -13,8 +13,8 @@
 - Decision Tree demonstrates a strong perfromance in distinguishing between non-default loans (0) and loan defaults (1), it has high true positive (25,552) and true negatives (25,055), however, it exhibits a slightly higher rate of false negatives (1,141) compared to false positives (1,055).
 
 ## Feature Importance: Random Forest and Decision Tree
-<img src="https://github.com/rosaaestrada/Loan-Default-Prediction/blob/main/Results/Images/Feautre%20Importance%20Random%20Forest.png?raw=true" alt="Feature Importance: Random Forest" width="500" height="400">
-<img src="" alt="Feature Importance: Decision Tree" width="500" height="400">
+<img src="https://github.com/rosaaestrada/Loan-Default-Prediction/blob/main/Results/Images/Feautre%20Importance%20Random%20Forest.png?raw=true" alt="Feature Importance: Random Forest" width="600" height="300">
+<img src="https://github.com/rosaaestrada/Loan-Default-Prediction/blob/main/Results/Images/Feature%20Importance%20Decision%20Tree.png?raw=true" alt="Feature Importance: Decision Tree" width="600" height="300">
 
 - Random Forest and Decision Tree: 'last_pymnt_amnt' is the most influential feature, followed by 'total_rec_prncp' and 'int_rate'.
 
