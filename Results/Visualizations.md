@@ -27,7 +27,7 @@
 
 
 ## Correlation Matrix Heatmap of selected features
-<img src="" alt="" width="500" height="500">
+<img src="https://github.com/rosaaestrada/Loan-Default-Prediction/blob/main/Results/Images/Corr%20Matrix%20of%20selected%20features.png?raw=true" alt="Correlation Matrix Heatmap of selected features" width="500" height="500">
 
 - shows relationships between the key features you've selected for modeling
 - provides an understanding of the interactions between the most relevant variables
