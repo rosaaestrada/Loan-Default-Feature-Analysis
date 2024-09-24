@@ -38,7 +38,7 @@
 
 
 ## Feature Importance with Natural Disaster Features
-<img src= "https://github.com/rosaaestrada/Loan-Default-Prediction/blob/main/Results/Images/Feature%20Importance%20with%20ND.png?raw=true" alt= "Feature Importance with Natural Disaster Features" width= "500" height= "500">
+<img src= "https://github.com/rosaaestrada/Loan-Default-Prediction/blob/main/Results/Images/Feature%20Importance%20with%20ND.png?raw=true" alt= "Feature Importance with Natural Disaster Features" width= "600" height= "400">
 
 - 'last_pymnt_amnt' remains as the most influential feature, followed by 'total_rec_prncp' and 'int_rate'.
 - With Natural disaster showing no significance.
