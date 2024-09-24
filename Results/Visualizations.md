@@ -12,31 +12,24 @@
 - Random Forest shows much stronger perfromance, correctly classifying both non-default loans (25,149) and loan defaults (25,904) with minimal errors, evidenced by the low number of false positives (961) and false negatives (789).
 - Decision Tree demonstrates a strong perfromance in distinguishing between non-default loans (0) and loan defaults (1), it has high true positive (25,552) and true negatives (25,055), however, it exhibits a slightly higher rate of false negatives (1,141) compared to false positives (1,055).
 
-
-
-
 ## Feature Importance: Random Forest and Decision Tree
-<img src="https://github.com/rosaaestrada/Loan-Default-Prediction/blob/main/Results/Images/Feautre%20Importance%20Random%20Forest.png?raw=true" alt="Feature Importance: Random Forest" width="500" height="500">
-<img src="" alt="Feature Importance: Decision Tree" width="500" height="500">
+<img src="https://github.com/rosaaestrada/Loan-Default-Prediction/blob/main/Results/Images/Feautre%20Importance%20Random%20Forest.png?raw=true" alt="Feature Importance: Random Forest" width="500" height="400">
+<img src="" alt="Feature Importance: Decision Tree" width="500" height="400">
 
-- 
-
-- highlights the most important features for each tree-based model, showing which features have the most predictive power.
-- Helps explain why the models perfrom the way they do
-
-
+- Random Forest and Decision Tree: 'last_pymnt_amnt' is the most influential feature, followed by 'total_rec_prncp' and 'int_rate'.
 
 ## Correlation Matrix Heatmap of selected features
 <img src="https://github.com/rosaaestrada/Loan-Default-Prediction/blob/main/Results/Images/Corr%20Matrix%20of%20selected%20features.png?raw=true" alt="Correlation Matrix Heatmap of selected features" width="500" height="500">
 
-- shows relationships between the key features you've selected for modeling
-- provides an understanding of the interactions between the most relevant variables
+- The heatmap reveals positive correlations between certain features, such as 'last_pymnt_amnt', 'int_rate' and 'total_rec_prncp'
+- Features in the light blue shades exhibit little to no correlations
 
 ## Correaltion Matrix Heatmap Explanation for Natural Disasters
-<img src="" alt="" width="500" height="500">
+<img src="https://github.com/rosaaestrada/Loan-Default-Prediction/blob/main/Results/Images/Correlation%20Matrix%20ND%20&%20States.png?raw=true" alt="Correaltion Matrix Heatmap Explanation for Natural Disasters" width="500" height="500">
 
-- Explains the correlation (or lack thereof) between natural disasters and loan status
+- The heatmap reveals no significant correlation between natural disasters and state
 - Natural Disasters do not significantly impact loan status.
+
 
 
 
