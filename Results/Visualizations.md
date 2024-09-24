@@ -24,7 +24,7 @@
 - The heatmap reveals positive correlations between certain features, such as 'last_pymnt_amnt', 'int_rate' and 'total_rec_prncp'
 - Features in the light blue shades exhibit little to no correlations
 
-## Correaltion Matrix Heatmap Explanation for Natural Disasters
+## Correlation Matrix Heatmap Explanation for Natural Disasters
 <img src="https://github.com/rosaaestrada/Loan-Default-Prediction/blob/main/Results/Images/Correlation%20Matrix%20ND%20&%20States.png?raw=true" alt="Correaltion Matrix Heatmap Explanation for Natural Disasters" width="500" height="500">
 
 - The heatmap reveals no significant correlation between natural disasters and state
