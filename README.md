@@ -38,7 +38,7 @@ This project employs a structured methodology consisting of several key stages: 
 - **Data** - Contains raw data, preprocessed data, and the location where the data was collected
 - **Jupyter Notebook** - The full source code along with explanations as a .ipynb file
 - **Python Code** - The full source code along with explanations as a .py file
-- **Results** - Summary Statistics, Visualizations, and Final Evaluatin of the project
+- **Results** - Summary Statistics, Visualizations, and Final Evaluation of the project
 
 
 
