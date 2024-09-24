@@ -30,7 +30,18 @@
 - The heatmap reveals no significant correlation between natural disasters and state
 - Natural Disasters do not significantly impact loan status.
 
+## Correlation Matrix Heatmap for Natural Disasters and Loan Status
+<img src= "https://github.com/rosaaestrada/Loan-Default-Prediction/blob/main/Results/Images/Corr%20Matrix%20Heatmap%20ND%20&%20loan_status.png?raw=true" alt= "Correlation Matrix Heatmap for Natural Disasters and Loan Status" width= "500" height= "500">
 
+- The Matrix reveals significant postive correlations with loan variables and significant negative correlations with natural disaster variables.
+- Dark brown indicates strong positve corelations while the lighter colors indicate no correlation.
+
+
+## Feature Importance with Natural Disaster Features
+<img src= "https://github.com/rosaaestrada/Loan-Default-Prediction/blob/main/Results/Images/Feature%20Importance%20with%20ND.png?raw=true" alt= "Feature Importance with Natural Disaster Features" width= "500" height= "500">
+
+- 'last_pymnt_amnt' remains as the most influential feature, followed by 'total_rec_prncp' and 'int_rate'.
+- With Natural disaster showing no significance.
 
 
 
