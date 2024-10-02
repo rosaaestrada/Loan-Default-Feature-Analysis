@@ -21,5 +21,5 @@
 - The feature importance score suggests that 'last_pymnt_amnt' (0.54) and 'total_rec_prncp' (0.45), are the most important features for predicting loan defaults, with the natural disaster variables far behind.
 
 **2️⃣ Answer to Research Question:**
-- The occurence of natural disasters in the United States from 2012 to 2019 cannot be used as a predictor for loan defaults, as there is no correlation between natural disasters and loan status in the dataset.
+- The occurrence of natural disasters in the United States from 2012 to 2019 cannot be used as a predictor for loan defaults, as there is no correlation between natural disasters and loan status in the dataset.
 
