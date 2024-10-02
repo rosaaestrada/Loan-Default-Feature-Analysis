@@ -17,7 +17,7 @@ In this project I predicted which factors influence loan default using Logistic 
 
 ## 2️⃣ Second Research Question
 
-🔸 Could the occurence of natural disasters, as witness in the United States from 2012 to 2019, be used as a predictor for loans defaults?
+🔸 Could the occurrence of natural disasters, as witness in the United States from 2012 to 2019, be used as a predictor for loans defaults?
 
 
 ## Methodology
