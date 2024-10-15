@@ -1,4 +1,4 @@
-# Predicting Factors Influencing Loan Default in the U.S.
+# Loan Default Feature Analysis and Classification
 
 - [Kaggle.com: rosaaestrada - Predicting Factors Influencing Loan Default in U.S](https://www.kaggle.com/code/rosaaestrada/predicting-factors-influencing-loan-default-in-u-s)
 - [Kaggle.com: rosaaestrada - Natural Disasters as Predictor for Loan Default](https://www.kaggle.com/code/rosaaestrada/natural-disasters-as-predictor-for-loan-default)
